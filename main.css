@@ -33,7 +33,7 @@ p {
 }
 
 .skills {
-    background-color: aqua;
+    background-color: #FFF6EB;
     border-radius: 5px;
     max-width: auto;
     overflow: hidden;
@@ -42,12 +42,18 @@ p {
 
 .skills ul {
     list-style-type: none;
+    min-width: 20px;
 }
 
 .skills li {
-    display: inline;
-    background-color: grey;
+    background-color: #ffdf9e;
     border-radius: 5px;
-    margin: 5px;
-    padding: 5px;
+    color: green;
+    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
