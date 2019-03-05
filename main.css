@@ -33,7 +33,6 @@ p {
 }
 
 .skills {
-    background-color: #FFF6EB;
     border-radius: 5px;
     max-width: auto;
     overflow: hidden;
@@ -46,7 +45,7 @@ p {
 }
 
 .skills li {
-    background-color: #ffdf9e;
+    background-color: rgb(252, 233, 209);
     border-radius: 5px;
     color: green;
     padding: 15px;
