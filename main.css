@@ -56,4 +56,19 @@ p {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    margin: 5px 5px 5px 5px;
+}
+
+.projects p {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+.projects ul {
+    list-style-type: none;
+}
+
+.project a {
+    text-decoration: none;
 }
