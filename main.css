@@ -72,3 +72,9 @@ p {
 .project a {
     text-decoration: none;
 }
+
+.project {
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+}
+
